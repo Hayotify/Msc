@@ -2,3 +2,4 @@ highrise-bot-sdk
 yt-dlp
 aiohttp
 spotipy
+ffmpeg
