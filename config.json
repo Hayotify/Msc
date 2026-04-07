@@ -1,0 +1,127 @@
+{
+    "bot_token": "ddc7d64e629123ba3c96b5536f47cf590a00929419a6ab44b574bb3fa2f9470a",
+    "room_id": "69baba4b1ecb78fb7b7b32bb",
+    "force_restart": false,
+    "owners": [
+        "_inferno__",
+        "harmanpreet_19",
+        "Kapehan",
+        "itsCL_",
+        "hirxya",
+        "genesisss_",
+        "Avriiea"
+    ],
+    "bot_position": {
+        "x": 14.5,
+        "y": 0.75,
+        "z": 26.5,
+        "facing": "FrontRight"
+    },
+    "vip_temp_price": 5,
+    "vip_perm_price": 100,
+    "paid_mode": false,
+    "bot_outfit": [
+        {
+            "type": "clothing",
+            "id": "body-flesh",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 27
+        },
+        {
+            "type": "clothing",
+            "id": "nose-n_01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 0
+        },
+        {
+            "type": "clothing",
+            "id": "mouth-n_amethystdailyrewards2020chainmouth",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "eyes-n_virgo2019virgoamythesteyes",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "shirt-m_suit_black",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "earrings-n_amethystdailyrewards2020amethystearrings",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "pants-n_starteritems2019cuffedjeansblack",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "bag-n_sapphiredailies2020sapphirestones",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "eyebrow-n_02",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "bag-n_amethystdailyrewards2020amethystwings",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "hair_front-n_malenew23",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 1
+        },
+        {
+            "type": "clothing",
+            "id": "hair_back-n_malenew23",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 1
+        },
+        {
+            "type": "clothing",
+            "id": "shoes-n_room12019bootsblack",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        }
+    ],
+    "blocked_users": [],
+    "icecast_url": "icecast://source:90Esk2EU@link.zeno.fm:80/rtgshmfgkmtuv",
+    "autodj": true,
+    "volume": 100,
+    "spotify_client_id": "796170ebbe9641f987d87a6869fb7f43",
+    "spotify_client_secret": "b193d7ebfa314beb82e064ab34a74c0d",
+    "moderators": [
+        "UnstainedApologetic",
+        "Michamoonlight",
+        "KapehanOfficialBot"
+    ]
+}
