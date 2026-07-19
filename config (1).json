@@ -1,0 +1,109 @@
+{
+    "bot_token": "bfbbe0dda1b8e1fe8993756ea8ec798262a22cedd19ce0b0c9a953110f948fba",
+    "room_id": "68bc7b0d434d593b32548466",
+    "force_restart": false,
+    "owners": [
+        "harmanpreet_19",
+        "iTobiko"
+    ],
+    "bot_position": {
+        "x": 16.492929458618,
+        "y": 0.5,
+        "z": 28.492929458618,
+        "facing": "BackLeft"
+    },
+    "vip_temp_price": 5,
+    "vip_perm_price": 100,
+    "paid_mode": false,
+    "bot_outfit": [
+        {
+            "type": "clothing",
+            "id": "body-flesh",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 65
+        },
+        {
+            "type": "clothing",
+            "id": "shirt-n_electionsuitdark",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "pants-n_electionpantsdark",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "nose-n_01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "glasses-n_registrationavatars2023billieglasses",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "shoes-n_2016artistloafers",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        },
+        {
+            "type": "clothing",
+            "id": "mouth-n_aprilfoolsinvisible2020mouth",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 0
+        },
+        {
+            "type": "clothing",
+            "id": "hair_front-n_malenew01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 1
+        },
+        {
+            "type": "clothing",
+            "id": "hair_back-n_malenew01",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 1
+        },
+        {
+            "type": "clothing",
+            "id": "eye-n_basic2018zanyeyes",
+            "amount": 1,
+            "account_bound": false,
+            "palette": 7
+        },
+        {
+            "type": "clothing",
+            "id": "eyebrow-n_21",
+            "amount": 1,
+            "account_bound": false,
+            "palette": -1
+        }
+    ],
+    "blocked_users": [],
+    "icecast_url": "icecast://source:Sachin2005@reseau.proxy.rlwy.net:50228/harman",
+    "autodj": false,
+    "volume": 100,
+    "spotify_client_id": "796170ebbe9641f987d87a6869fb7f43",
+    "spotify_client_secret": "b193d7ebfa314beb82e064ab34a74c0d",
+    "moderators": [
+        "mosIm_",
+        "muffiinn_",
+        "Baby_Im_Yours_1",
+        "AA_DII"
+    ]
+}
